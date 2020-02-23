@@ -1,4 +1,4 @@
-# Homepage footer banners
+# Footer banners
 
 ```
 v1 (text only)
@@ -20,3 +20,20 @@ v3 (photo)
 
 ![](Banner-homepage-photo.gif)
 
+# Homepage banner
+
+```
+1200x300
+```
+
+![](Wehustle-homepage.gif)
+
+
+# Category skyscraper
+
+
+```
+480x1066
+```
+
+![](WeHustle-vertical.png)
