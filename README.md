@@ -33,7 +33,7 @@ v3 (photo)
 
 
 ```
-480x1066
+240x533
 ```
 
-![](WeHustle-vertical.png)
+<img src="WeHustle-vertical.png" width="240px" height="533px" />
